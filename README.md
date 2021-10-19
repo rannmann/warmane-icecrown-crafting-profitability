@@ -9,7 +9,7 @@ In the `csv` directory is a computed list of crafting profitability
 by profession + faction.  In some cases the automatic parsing
 of items to professions fails.  When this happens, items may appear
 in the `Unknown` profession.  I try to manually update these when
-I notice them.
+I notice them if they're profitable.
 
 Not all crafting recipes are shown.  If we cannot figure out a
 price for a crafting component or the result item, we omit the entire
